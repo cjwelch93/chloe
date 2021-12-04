@@ -1,0 +1,18 @@
+---
+title: "Chloe Welch, PhD Student, Division of Biological Sciences at UC San Diego"
+image: "ChloeLab.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/chloe-welch-26b182178/"
+  - label: Twitter
+    url: "https://twitter.com/ChloeJWelch"
+  - label: Email
+    url: "mailto:cwelch@ucsd.edu"
+output:
+  postcards::onofre
+---
+ 
+Chloe Welch is a PhD student in the Division of Biological Sciences at the University of California, San Diego in La Jolla, CA. She holds a bachelor of science in cellular/molecular biology and a master's degree in stem cell biology. Her research interests are centered on cell and developmental biology with an emphasis on neurological disorders and disease.
